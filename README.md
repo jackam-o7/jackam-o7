@@ -1,4 +1,4 @@
-<h1>hello, i'm jack  <br/>
+<h1>hello, i'm jack! <br/>
 
 <h2>👨‍💻Projects:</h2>
 

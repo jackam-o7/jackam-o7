@@ -1,5 +1,5 @@
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&duration=2500&pause=1000&color=FFFFFF&width=435&lines=hi+there!%F0%9F%91%8B;i'm+jack." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=2500&pause=1000&color=FFFFFF&width=435&lines=hi+there!%F0%9F%91%8B;i'm+jack." alt="Typing SVG" /></a>
 </h1>  
 
 <h2>my projects🖥️</h2>

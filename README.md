@@ -26,7 +26,7 @@
 
 <a href="https://linkedin.comin/jack-maloney-a58002289/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/jackamo//"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="jackmaloney333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:jackmaloney333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!--
 
 **jackam-o7/jackam-o7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

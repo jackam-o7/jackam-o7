@@ -16,7 +16,6 @@
     
 
 <h2>tools/languages💻</h2>
-<br/>
     <img src="https://skillicons.dev/icons?i=kali,bash,powershell,github,git,ableton,html,elasticsearch,python,mysql,linux,notion,ps,ubuntu,wordpress" /><br>
 </div>
     

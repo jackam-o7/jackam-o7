@@ -1,6 +1,6 @@
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Jack!;" />
-<h2>my projects:</h2>
+<h2>my projects🖥️</h2>
 
 - <b>Kali Linux
   - [Security Information & Events Manager (SIEM)](https://github.com/jackam-o7/SIEM)
@@ -15,12 +15,12 @@
 - <b>Research
   - [Information Privacy: An analysis of organisational practices](https://github.com/jackam-o7/finalyrproject)
 
-<h2>languages/frameworks/tools</h2>
+<h2>tools/languages💻</h2>
 <br/>
     <img src="https://skillicons.dev/icons?i=kali,bash,powershell,github,git,ableton,html,elasticsearch,python,mysql,linux,notion,ps,ubuntu,wordpress" /><br>
 </div>
     
-<h2> connect with me:</h2>
+<h2> connect with me💬</h2>
 
 
 

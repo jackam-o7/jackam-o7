@@ -2,15 +2,17 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Active Directory (AD DS)</b>
-  - [Active Directory home lab](https://github.com/jackam-o7/ActiveDirectoryHomeLab)
-- <b>Kali Linux</b>
+- <b>Kali Linux
   - [Security Information & Events Manager (SIEM)](https://github.com/jackam-o7/SIEM)
-- <b>PowerShell</b>
+  - [Python Keylogger](https://github.com/jackam-o7/keylogger)
+  
+- <b>Active Directory (AD DS)
+  - [Active Directory home lab](https://github.com/jackam-o7/ActiveDirectoryHomeLab)
+
+- <b>PowerShell
   - [File Integrity Monitor (FIM)](https://github.com/jackam-o7/FIM)
-- <b>C#</b>
-  - [Keylogger](https://github.com/jackam-o7/keylogger)
-- <b>Research</b>
+
+- <b>Research
   - [Information Privacy: An analysis of organisational practices](https://github.com/jackam-o7/finalyrproject)
 
     

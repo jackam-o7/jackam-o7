@@ -7,13 +7,10 @@
 - <b>Kali Linux
   - [Security Information & Events Manager (SIEM)](https://github.com/jackam-o7/SIEM)
   - [Python Keylogger](https://github.com/jackam-o7/keylogger)
-  
+- <b>PowerShell
+  - [File Integrity Monitor (FIM)](https://github.com/jackam-o7/FIM)  
 - <b>Active Directory (AD DS)
   - [Active Directory home lab](https://github.com/jackam-o7/ActiveDirectoryHomeLab)
-
-- <b>PowerShell
-  - [File Integrity Monitor (FIM)](https://github.com/jackam-o7/FIM)
-
 - <b>Research
   - [Information Privacy: An analysis of organisational practices](https://github.com/jackam-o7/finalyrproject)
 

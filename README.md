@@ -9,7 +9,7 @@
 - <b>PowerShell</b>
   - [File Integrity Monitor (FIM)](https://github.com/jackam-o7/FIM)
 - <b>C#</b>
-  - [Information Privacy: An analysis of organisational practices](https://github.com/jackam-o7/keylogger)
+  - [Keylogger](https://github.com/jackam-o7/keylogger)
 - <b>Research</b>
   - [Information Privacy: An analysis of organisational practices](https://github.com/jackam-o7/finalyrproject)
 

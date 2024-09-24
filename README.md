@@ -1,5 +1,6 @@
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Jack!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=2500&pause=1000&color=FFFFFF&width=435&lines=hi+there!%F0%9F%91%8B;i'm+jack" alt="Typing SVG" /></a>
+   
 <h2>my projects🖥️</h2>
 
 - <b>Kali Linux

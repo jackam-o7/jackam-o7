@@ -8,10 +8,11 @@
   - [Security Information & Events Manager (SIEM)](https://github.com/jackam-o7/SIEM)
 - <b>PowerShell</b>
   - [File Integrity Monitor (FIM)](https://github.com/jackam-o7/FIM)
-- <b>Research</b>
-  - [Information Privacy: An analysis of organisational practices](https://github.com/jackam-o7/finalyrproject)
 - <b>C#</b>
   - [Information Privacy: An analysis of organisational practices](https://github.com/jackam-o7/keylogger)
+- <b>Research</b>
+  - [Information Privacy: An analysis of organisational practices](https://github.com/jackam-o7/finalyrproject)
+
     
 <h2> 🤳 Connect with me:</h2>
 

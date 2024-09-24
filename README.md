@@ -8,7 +8,7 @@
   - [Python Keylogger](https://github.com/jackam-o7/keylogger)
 - <b>PowerShell
   - [File Integrity Monitor (FIM)](https://github.com/jackam-o7/FIM)
-- <b>Active Directory (AD DS)
+- <b>Windows Server
   - [Active Directory home lab](https://github.com/jackam-o7/ActiveDirectoryHomeLab)
 - <b>Research
   - [Information Privacy: An analysis of organisational practices](https://github.com/jackam-o7/finalyrproject)

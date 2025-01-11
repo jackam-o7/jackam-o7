@@ -14,7 +14,7 @@
   - [Information Privacy: An analysis of organisational practices](https://github.com/jackam-o7/finalyrproject)
     
 
-<h2>tools/languages💻 </h2>
+<h2>tools/languages💻</h2>
     <img src="https://skillicons.dev/icons?i=kali,bash,powershell,github,git,ableton,html,elasticsearch,python,mysql,linux,notion,ps,ubuntu,wordpress" /><br>
 </div>
     
